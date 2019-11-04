@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1572886140 source:d:\ccomp1\unionproyectazo\src\libro.cpp
+	"Libro.h"
+	<iostream>
+
+1572898789 d:\ccomp1\unionproyectazo\include\libro.h
+
+1572898789 source:d:\ccomp1\unionproyectazo\src\mejora.cpp
+	"Mejora.h"
+	<string>
+	<iostream>
+
+1572885886 d:\ccomp1\unionproyectazo\include\mejora.h
+	<string>
+	<iostream>
+
+1572885909 source:d:\ccomp1\unionproyectazo\main.cpp
+	<iostream>
+	<string>
+	"Libro.h"
+	"Mejora.h"
+
