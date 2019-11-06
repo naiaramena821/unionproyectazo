@@ -5,6 +5,7 @@
 class Libro
 {
     public:
+        char volver;
         Libro();
         void mostrar_estilos();
         void romance();
@@ -32,10 +33,8 @@ class Libro
         void gotico4();
         void gotico5();
         void gotico6();
-        void gotico7();
         void literatura_medieval();
         void mostrar_libros();
-        void libreria_romance();
         void pedir_libro();
 };
 
